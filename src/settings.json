@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual",
+        "title": "Awaken Your Senses with Every Sip"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Awaken Your Senses with Every Sip",
+  "subtitle": "Discover the Perfect Coffee Blend Crafted to Elevate Your Daily Ritual"
+}
